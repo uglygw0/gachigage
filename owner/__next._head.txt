@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[97367,["/gachigage/_next/static/chunks/0g65zv~fun4x7.js","/gachigage/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+3:I[97367,["/gachigage/_next/static/chunks/0g65zv~fun4x7.js","/gachigage/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[27201,["/gachigage/_next/static/chunks/0g65zv~fun4x7.js","/gachigage/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"사장님 안내 · 같이가게"}],["$","meta","1",{"name":"description","content":"광고비 대신, 손님이 골목을 돈 뒤에만 나가는 혜택 하나. 설치할 것도 수수료도 없는 전남대 후문 골목 빙고."}],["$","link","2",{"rel":"icon","href":"/gachigage/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"SfIrAJaNqIqlmLuKLC8pG"}
